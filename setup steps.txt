@@ -1,0 +1,7 @@
+setup steps
+
+1. required python 3.14 + version
+2. pip install selenium pandas
+3. pip install selenium pandas webdriver-manager
+4. python -m pip install webdriver-manager
+5. python -m pip install selenium pandas
